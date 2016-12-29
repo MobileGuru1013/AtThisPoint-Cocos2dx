@@ -1,0 +1,57 @@
+{
+    "android": {
+        "iap": {
+            "items": {
+                "buy_1": {
+                    "id": "com.pointgame.buy1"
+                }, 
+                "buy_2": {
+                    "id": "com.pointgame.buy2"
+                }, 
+                "buy_3": {
+                    "id": "com.pointgame.buy3"
+                }, 
+                "buy_4": {
+                    "id": "com.pointgame.buy4"
+                }, 
+                "buy_5": {
+                    "id": "com.pointgame.buy5"
+                }, 
+                "buy_6": {
+                    "id": "com.pointgame.buy6"
+                }, 
+                "buy_7": {
+                    "id": "com.pointgame.buy7"
+                }
+            },
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7eIGu7dRcBRBSC05cYvxjBMd7cqq9w6++1er+cqO2tyWPtWB4vuTkliq4k/Fkylx5UMfptdOYOW8ENgQyVucs/NyuOAGmve4j5JFhLPcLa6LjO2HUSY6zk04DRR9Zw7YPET4WAezZTz8jYMGhPG08HYltVj8cmSpSFWd1nI0pGOJoLQIMkIkXplgnPQRbMpuOu70vnQQBS1RFcoFT7OjaV8U0cfJzMoS1TMkGqaJKks2T+qOBNTtkXzge92EnvYIkhpCfN98dj6aQmETNp5yj5Fa+jcbAVF8dy5xymJwioL89XQKfKkGR+P6ESMoBEPfIZYIlMU8EUwmC+UKGLujQIDAQAB"
+        }
+    }, 
+    "ios": {
+        "iap": {
+            "items": {
+                "buy_1": {
+                    "id": "com.pointgame.buy1"
+                },
+                "buy_2": {
+                    "id": "com.pointgame.buy2"
+                },
+                "buy_3": {
+                    "id": "com.pointgame.buy3"
+                },
+                "buy_4": {
+                    "id": "com.pointgame.buy4"
+                },
+                "buy_5": {
+                    "id": "com.pointgame.buy5"
+                },
+                "buy_6": {
+                    "id": "com.pointgame.buy6"
+                },
+                "buy_7": {
+                    "id": "com.pointgame.buy7"
+                }
+            }
+        }
+    }
+}
